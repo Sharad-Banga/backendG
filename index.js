@@ -1,5 +1,5 @@
 import chalk from "chalk";
 
-console.log(chalk.red.underline("rahul rana"));
-console.log(chalk.green.bold("sharad banga"));
-
+console.log(chalk.red.bold("sharad"));
+console.log(chalk.blue.underline("ritika"));
+console.log(chalk.green("virpartap"));
